@@ -4,6 +4,7 @@ import TodoInfo from './Components/TodoInfo';
 import Todos from './Components/Todos';
 
 function App() {
+  // console.log("Dummy ");
   return (
     <div>
       <Header />
